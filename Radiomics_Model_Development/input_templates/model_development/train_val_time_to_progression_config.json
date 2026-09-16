@@ -1,0 +1,14 @@
+{
+    "experiment_name": "example_experiment",
+    "root_dir": "/data",
+    "radiomic_features": "inputs/your_features.csv",
+    "clinical_features": null,
+    "endpoints": "inputs/your_endpoints.csv",
+    "id_column": "Patient",
+    "duration_column": "Time to Progression (TTP)",
+    "event_column": "Progression",
+    "k_folds": 5,
+    "scoring_method": ["log_likelihood", "concordance_index"],
+    "scoring_method_ascending": true,
+    "save": true
+}

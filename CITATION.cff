@@ -1,0 +1,74 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article below."
+title: "Radiomics: PET/MR open source radiomics models for treatment outcome prediction in recurrent GBM"
+type: software
+authors:
+  - family-names: Carles
+    given-names: Montserrat
+    affiliation: "Biomedical Imaging Research Group (GIBI230), Health Research Institute La Fe, Valencia, Spain"
+  - family-names: Mora-Rubio
+    given-names: Alejandro
+    affiliation: "Biomedical Imaging Research Group (GIBI230), Health Research Institute La Fe, Valencia, Spain"
+  - family-names: Fechter
+    given-names: Tobias
+    affiliation: "Department of Radiation Oncology, Division of Medical Physics, Medical Center - University of Freiburg, Germany"
+  - family-names: Perez-Herrero
+    given-names: Sandra
+    affiliation: "Biomedical Imaging Research Group (GIBI230), Health Research Institute La Fe, Valencia, Spain"
+  - family-names: Fernández-Patón
+    given-names: Matías
+    affiliation: "Biomedical Imaging Research Group (GIBI230), Health Research Institute La Fe, Valencia, Spain"
+  - family-names: Baltas
+    given-names: Dimos
+    affiliation: "Department of Radiation Oncology, Division of Medical Physics, Medical Center - University of Freiburg, Germany"
+  - family-names: Mix
+    given-names: Michael
+    affiliation: "Department of Nuclear Medicine, Medical Center - University of Freiburg, Germany"
+  - family-names: Meyer
+    given-names: Philipp
+    affiliation: "Department of Nuclear Medicine, Medical Center - University of Freiburg, Germany"
+  - family-names: Popp
+    given-names: Ilinca
+    affiliation: "Department of Radiation Oncology, Medical Center - University of Freiburg, Germany"
+  - family-names: Martí-Bonmatí
+    given-names: Luis
+    affiliation: "Department of Radiology, La Fe Polytechnic and University Hospital, Valencia, Spain"
+  - family-names: Grosu
+    given-names: A. L.
+    affiliation: "Department of Radiation Oncology, Medical Center - University of Freiburg, Germany"
+repository-code: "https://github.com/MATTO-GBM-TRANSCAN/Radiomics"
+license: MIT
+preferred-citation:
+  type: article
+  title: "PET/MR open source radiomics models for treatment outcome prediction in recurrent GBM"
+  journal: "Cancers"
+  publisher:
+    name: MDPI
+  authors:
+    - family-names: Carles
+      given-names: Montserrat
+    - family-names: Mora-Rubio
+      given-names: Alejandro
+    - family-names: Fechter
+      given-names: Tobias
+    - family-names: Perez-Herrero
+      given-names: Sandra
+    - family-names: Fernández-Patón
+      given-names: Matías
+    - family-names: Baltas
+      given-names: Dimos
+    - family-names: Mix
+      given-names: Michael
+    - family-names: Meyer
+      given-names: Philipp
+    - family-names: Popp
+      given-names: Ilinca
+    - family-names: Martí-Bonmatí
+      given-names: Luis
+    - family-names: Grosu
+      given-names: A. L.
+  # TODO: fill in once the article record is finalized
+  # doi: "10.3390/cancersXXXXXXXX"
+  # volume: ""
+  # issue: ""
+  # year: 2026

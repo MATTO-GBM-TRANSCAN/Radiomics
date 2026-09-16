@@ -1,0 +1,3 @@
+Image,Mask,Patient,Reader,Contour
+/input/images/Patient01_MR.nii.gz,/input/masks/Patient01_GTV_Reader1.nii.gz,Patient01,Reader1,MR
+/input/images/Patient02_PET.nii.gz,/input/masks/Patient02_GTV_Reader1.nii.gz,Patient02,Reader1,PET

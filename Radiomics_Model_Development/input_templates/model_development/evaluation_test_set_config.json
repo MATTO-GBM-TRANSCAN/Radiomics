@@ -1,0 +1,18 @@
+{
+    "experiment_name": "example_experiment/test",
+    "evaluation_type": "Train-Test",
+    "root_dir": "/data",
+    "radiomic_features": "inputs/your_train_features.csv",
+    "clinical_features": null,
+    "endpoints": "inputs/your_train_endpoints.csv",
+    "test_radiomic_features": "inputs/your_test_features.csv",
+    "test_clinical_features": null,
+    "test_endpoints": "inputs/your_test_endpoints.csv",
+    "id_column": "Patient",
+    "duration_column": "Time to Progression (TTP)",
+    "event_column": "Progression",
+    "features": ["feature1", "feature2"],
+    "scoring_method": ["log_likelihood"],
+    "scoring_method_ascending": true,
+    "save": true
+}

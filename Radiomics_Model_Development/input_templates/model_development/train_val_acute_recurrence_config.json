@@ -1,0 +1,13 @@
+{
+    "experiment_name": "example_experiment",
+    "root_dir": "/data",
+    "radiomic_features": "inputs/your_radiomic_features.csv",
+    "clinical_features": "inputs/your_clinical_features.csv",
+    "endpoints": "inputs/your_endpoints.csv",
+    "id_column": "Patient",
+    "event_column": "Acute Recurrence",
+    "k_folds": 5,
+    "scoring_method": ["roc_auc", "balanced_accuracy", "f1"],
+    "scoring_method_ascending": true,
+    "save": true
+}

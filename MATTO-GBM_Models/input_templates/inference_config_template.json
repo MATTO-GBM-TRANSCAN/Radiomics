@@ -1,0 +1,19 @@
+{
+    "patient_id": "Patient01",
+    "experiment_name": "MATTO_GBM_inference_00",
+    "output_dir": "/output",
+    "model_source": "zenodo",
+    "models_path": "/models",
+    "zenodo_reference": "10.5281/zenodo.22641702",
+    "t1wce": "/input/Patient01_T1wCE.nii.gz",
+    "mr_contour": "/input/Patient01_MR_contour.nii.gz",
+    "pet_image": "/input/Patient01_FETPET.nii.gz",
+    "pet_contour": "/input/Patient01_PET_contour.nii.gz",
+    "t1wce_intersection": "/input/Patient01_T1wCE.nii.gz",
+    "intersection_contour": "/input/Patient01_intersection_contour.nii.gz",
+    "clinical": {
+        "Age": 58,
+        "Sex": 0,
+        "(Re-)current GBM localisation: Frontal": 1
+    }
+}
