@@ -66,7 +66,7 @@ Radiomics/
 
 Please cite the following paper if you use this work for your research:
 
-Carles M, Mora-Rubio A, Fechter T, Perez-Herrero S, Fernández-Patón M, Baltas D, Mix M, Meyer P, Popp I, Martí-Bonmatí L, Grosu AL. PET/MR open source radiomics models for treatment outcome prediction in recurrent GBM. Cancers. (in press; DOI to be added once assigned).
+Carles M, Mora-Rubio A, Fechter T, Perez-Herrero S, Fernández-Patón M, Baltas D, Mix M, Meyer P, Popp I, Martí-Bonmatí L, Grosu AL. PET/MR open source radiomics models for treatment outcome prediction in recurrent GBM. Cancers.18(18):3008; https://doi.org/10.3390/cancers18183008.
 
 or
 
@@ -76,7 +76,10 @@ or
   author = {Carles, M. and Mora-Rubio, A. and Fechter, T. and Perez-Herrero, S. and Fernández-Patón, M. and Baltas, D. and Mix, M. and Meyer, P. and Popp, I. and Martí-Bonmatí, L. and Grosu, A. L.},
   journaltitle = {Cancers},
   year = {2026},
-  note = {In press; DOI to be added once assigned}
+  volume = {18},
+  number = {18},
+  article-number = {3008},
+  note = {(https://doi.org/10.3390/cancers18183008)}
 }
 ```
 
