@@ -18,5 +18,6 @@ CONFIG_FILE="your_config.json"         # path to your config file, relative to P
 docker run --rm \
   -v "${PROJECT_DIR}:/data" \
   -w /workdir/Radiomics_Model_Development \
+  --ulimit nofile=65536:65536 \
   matto-radiomics \
   python -m matto_radiomics.train_val_test.evaluate_feature_subset "/data/${CONFIG_FILE}"
