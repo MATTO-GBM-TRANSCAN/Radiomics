@@ -45,7 +45,6 @@ Each workflow directory includes ready-made run_*.sh scripts to launch the corre
 Windows users can adapt the corresponding run_*.sh script into a run_*.ps1 script.
 
 
-
 ## Repository structure
 
 ```
